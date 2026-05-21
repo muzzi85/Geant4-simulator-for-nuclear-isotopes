@@ -1,10 +1,9 @@
-## Geant4 nuclear simulation for generating gamma spectrum, written in C++
+# ☢️ Geant4 Nuclear Isotope Simulation Framework
 
 ![image](https://github.com/user-attachments/assets/c25365dc-d29e-4e41-8e78-08b8d29b4905)
 
 ![image](https://github.com/user-attachments/assets/fe993a89-e9f3-426d-9305-4aa8acd89ce2)
 
-# ☢️ Geant4 Nuclear Isotope Simulation Framework
 
 A Geant4-based Monte Carlo simulation framework for modelling nuclear isotope interactions, gamma-ray transport, detector response, and energy spectrum generation using C++.
 
